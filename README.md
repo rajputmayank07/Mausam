@@ -1,8 +1,21 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# **Basic React App**
 
-Currently, two official plugins are available:
+This is a simple React application created as part of learning React.js. The app demonstrates the fundamental concepts of React, including components, props, state, and event handling.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## **Features**
+
+- **Reusable Components**: Modular and reusable React components.  
+- **State Management**: Basic use of React's state for dynamic updates.  
+- **Props Passing**: Passing and handling data between components.  
+- **Event Handling**: User interaction through event listeners.  
+
+---
+
+## **Tech Stack**
+
+- **Frontend**: React.js (with JavaScript)
+- **Build Tool**: Create React App (CRA)
